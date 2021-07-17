@@ -1,22 +1,10 @@
 
 > Open this page at [https://mar10josh.github.io/microchat/](https://mar10josh.github.io/microchat/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/mar10josh/microchat** and import
-
 ## Edit this project ![Build status badge](https://github.com/mar10josh/microchat/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/mar10josh/microchat** and click import
+Just go to how-to-customize.md lol
 
 ## Blocks preview
 
